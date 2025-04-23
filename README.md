@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Ondřej Bajer
 
-<!--
-**ondrej-bajer/ondrej-bajer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Power Trader / Energy Markets / Algo Trading / Python**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 I'm a power trader with **9 years of experience** in the European energy markets.  
+🔍 My work is mix of market analysis, strategy development and I would like to learn more about **algorithmic trading**.  
+🐍 I use **Python** to build, test, and improve trading strategies — and I love experimenting with data.   
+📚 Always happy to learn new things and stay curious.
+
+---
+
+### 🧠 What I’m Working On
+- 📈 Trend-following strategies on German month-ahead power futures  
+- ☁️ Building automation scripts  
+- 🌍 Creating a personal website to share my trading approach and insights
+
+---
+
+### 🛠️ Tech Stack
+- **Languages**: Python, SQL, Bash  
+- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn   
+- **Tools**: Git, VS Code, Trading Platforms: TT, Trayport
+
+---
+
+### 📫 How to Reach Me
+- ✉️ Email: bajer.o@centrum.cz
+- 💼 LinkedIn: https://linkedin.com/in/ondrej-bajer
+- 🌐 Website: https://www.ondrej-bajer.com/
+
+---
+
+🔖 _"Stay curious, build boldly, and never stop improving."_
