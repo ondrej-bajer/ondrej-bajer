@@ -5,14 +5,14 @@
 ---
 
 🎯 I'm a power trader with **9 years of experience** in the European energy markets.  
-🔍 My work is mix of market analysis, strategy development and I would like to learn more about **algorithmic trading**.  
+🔍 My work is mix of market analysis, strategy development and I'm particularly enthusiastic about **algo trading** and the intersection of technology and financial markets.  
 🐍 I use **Python** to build, test, and improve trading strategies — and I love experimenting with data.   
 📚 Always happy to learn new things and stay curious.
 
 ---
 
 ### 🧠 What I’m Working On
-- 📈 Trend-following strategies on German month-ahead power futures  
+- 📈 Trend-following strategies on power futures  
 - ☁️ Building automation scripts  
 - 🌍 Creating a personal website to share my trading approach and insights
 
