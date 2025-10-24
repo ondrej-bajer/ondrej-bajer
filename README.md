@@ -1,34 +1,32 @@
 # 👋 Hi, I'm Ondřej Bajer
 
-**Power Trader / Energy Markets / Algo Trading / Python**
+💻 **Junior Software Developer | Former Power Trader | Tech Enthusiast**
 
 ---
 
-🎯 I'm a power trader with **9 years of experience** in the European energy markets.  
-🔍 My work is mix of market analysis, strategy development and I'm particularly enthusiastic about **algo trading** and the intersection of technology and financial markets.  
-🐍 I use **Python** to build, test, and improve trading strategies — and I love experimenting with data.   
-📚 Always happy to learn new things and stay curious.
-
----
-
-### 🧠 What I’m Working On
-- 📈 Trend-following strategies on power futures  
-- ☁️ Building automation scripts  
-- 🌍 Creating a personal website to share my trading approach and insights
+I'm transitioning from a 10-year career in **power trading** to **software development**, 
+driven by a strong interest in data, automation, and technology.  
+My background in energy markets gave me a deep understanding of analytical thinking, 
+risk management, and working with data-driven decisions — skills I now apply to coding.
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: Python, SQL, Bash  
-- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn   
-- **Tools**: Git, VS Code, Trading Platforms: TT, Trayport
+**Languages:** C#, Python, JavaScript, HTML, CSS, SQL 
+**Frameworks & Tools:** .NET, ASP.NET Core, React, Bootstrap, MS SQL  
+**Other Skills:** Git, OOP, REST APIs, basic cloud fundamentals (Azure)  
+
+---
+
+### 📚 Previous Background
+Before switching to IT, I worked as a **Power Trader** in the European energy markets.  
+I developed trading strategies, worked with large data sets, and collaborated closely with IT teams.
 
 ---
 
 ### 📫 How to Reach Me
 - ✉️ Email: bajer.o@centrum.cz
 - 💼 LinkedIn: https://linkedin.com/in/ondrej-bajer
-- 🌐 Website: https://www.ondrej-bajer.com/
 
 ---
 
