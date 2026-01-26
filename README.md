@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ondřej Bajer
 
-💻 **Junior Software Developer | Former Power Trader | Tech Enthusiast**
+💻 **Software Developer | Tech Enthusiast | Former Power Trader**
 
 ---
 
