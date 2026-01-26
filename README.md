@@ -4,9 +4,9 @@
 
 ---
 
-Software developer focused on C# and .NET with a strong analytical background from the energy trading industry.
-Experienced in building structured applications using ASP.NET Core MVC, Entity Framework, and SQL databases.
-Comfortable working with data, automation, and problem-solving in complex environments.
+Junior software developer focused on C# and .NET with a strong analytical background from the energy trading industry. 
+Hands-on experience with ASP.NET Core MVC, Entity Framework, and SQL-based applications. 
+Strong interest in backend development, data-driven systems, and automation.
 
 ---
 
