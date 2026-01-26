@@ -4,17 +4,18 @@
 
 ---
 
-I'm transitioning from a 10-year career in **power trading** to **software development**, 
-driven by a strong interest in data, automation, and technology.  
-My background in energy markets gave me a deep understanding of analytical thinking, 
-risk management, and working with data-driven decisions — skills I now apply to coding.
+Software developer focused on C# and .NET with a strong analytical background from the energy trading industry.
+Experienced in building structured applications using ASP.NET Core MVC, Entity Framework, and SQL databases.
+Comfortable working with data, automation, and problem-solving in complex environments.
 
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** C#, Python, JavaScript, HTML, CSS, SQL 
-**Frameworks & Tools:** .NET, ASP.NET Core, React, Bootstrap, MS SQL  
-**Other Skills:** Git, OOP, REST APIs, basic cloud fundamentals (Azure)  
+**Languages:** C#, JavaScript (basic), Python
+**Frameworks & Tools:** .NET, ASP.NET Core MVC, Entity Framework, Blazor, React(basic)
+**Databases:** MS SQL, SQLite, PostgreSQL
+**Web:** HTML, CSS, Bootstrap
+**Tools:** Git, GitHub, Visual Studio, VS Code, Postman, PyCharm, MS SQL Server, pgAdmin
 
 ---
 
