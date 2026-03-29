@@ -1,27 +1,33 @@
 # 👋 Hi, I'm Ondřej Bajer
 
-💻 **Software Developer | Tech Enthusiast | Former Power Trader**
+💻 **Data & Backend Systems | Python, SQL, .NET | 9y Energy Trading Background**
 
 ---
 
-Junior software developer focused on C# and .NET with a strong analytical background from the energy trading industry. 
-Hands-on experience with ASP.NET Core MVC, Entity Framework, and SQL-based applications. 
-Strong interest in backend development, data-driven systems, and automation.
+Data-oriented developer with a background in energy trading (9 years), focusing on building data-driven systems and backend applications.
+
+Hands-on experience with Python and SQL for working with structured and time-series data, as well as C# and .NET for backend development and application logic.
+
+Interested in data pipelines, automation, and systems that operate on real-world market data — particularly in energy and trading environments.
 
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** C#, JavaScript (basic), Python
-**Frameworks & Tools:** .NET, ASP.NET Core MVC, Entity Framework, Blazor, React(basic)
-**Databases:** MS SQL, SQLite, PostgreSQL
+**Languages:** Python, SQL, C#, JavaScript (basic)
+**Data:** Pandas, ETL processes, time-series data
+**Backend:** .NET, ASP.NET Core, Entity Framework
+**Databases:** MS SQL Server, SQLite, PostgreSQL
 **Web:** HTML, CSS, Bootstrap
-**Tools:** Git, GitHub, Visual Studio, VS Code, Postman, PyCharm, MS SQL Server, pgAdmin
+**Tools:** Git, GitHub, Visual Studio, VS Code, Postman, PyCharm, SSMS 21, pgAdmin
 
 ---
 
 ### 📚 Previous Background
-Before switching to IT, I worked as a **Power Trader** in the European energy markets.  
-I developed trading strategies, worked with large data sets, and collaborated closely with IT teams.
+Before transitioning into tech, I worked as a **Power Trader** in European energy markets.  
+- Worked with large-scale market data and real-time systems  
+- Applied data-driven decision-making under uncertainty  
+- Developed trading strategies and monitored risk exposure  
+- Collaborated closely with IT teams and system workflows 
 
 ---
 
